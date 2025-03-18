@@ -1,0 +1,34 @@
+/lts/sahlab/data4/DATA_DOWNLOADS_3	Project	Notes
+AHandley_RV3_rotavirus_vaccine_virome	Amanda Handley rotavirus vaccine	288 samples
+NextSeq_Run913	Gaya Amarasinghe cell culture samples	11 samples; Rift Valley Fever isolates
+N915_RNA_UDP	Mike Diamond SARS Omicron cell culture isolates	4 samples
+N919_UDP	Mike Diamond enteric organoids infected with five different phages at low and high doses	48 samples
+N929_amplicon	Krishna encephalitits	48 samples; updated 12/13/2023
+N932	"Gaya Amarasinghe viral sequencing: Mayaro virus, Ebola virus, VSV"	29 samples
+N933_amplicons	Krishna encephalitits + Fever of Unknown Origin (FUO)	48 samples
+N935_RNA	Mike Diamond SARS Omicron cell culture isolates	5 samples
+N936_UDP	Krishna FUO (fever of unknown origin)	80 samples
+M951_16S	Maureen Leonard Celiacs 16S	336 samples; 15 water
+NextSeq_N958_UDP	Maureen Leonard Celiacs virome	48 samples
+NextSeq_N960_UDP	Maureen Leonard Celiacs virome	48 samples
+NextSeq_N965	Leonard_Human_Stool_Celiac	48 samples
+NextSeq_N966	Leonard_Human_Stool_Celiac	48 samples
+NextSeq_Run913	Gaya Amarasinghe Rift Valley Fever isolates	10 samples
+Lindsay_database_backups	html; mysql	2 databases for Lindsay
+NovaSeq_N966	Leonard_Human_Stool_Celiac	48 samples
+NovaSeq_N973	"Krishna encephalitits (serum, CSF) + Fever of Unknown Origin (serum)"	47 samples
+NovaSeq_N974	"Krishna encephalitits (serum, CSF) + DENV"	47 samples
+NovaSeq_N978	Leonard_Human_Stool_Celiac	48 samples
+NovaSeq_N979	Leonard_Human_Stool_Celiac	48 samples
+NovaSeq_N980	Leonard_Human_Stool_Celiac	48 samples
+NovaSeq_N981	Leonard_Human_Stool_Celiac	48 samples
+NovaSeq_N982	Leonard_Human_Stool_Celiac	48 samples
+NovaSeq_N983	Leonard_Human_Stool_Celiac	52 samples
+NovaSeq_N984	Dave Wang Colobus Sequencing	20 samples
+NovaSeq_N987	Gaya Amarasinghe cell culture samples	19 samples; Ebola and SARS virus
+Artic_Pool_Aug2024	Dave Wang MiSeq Artic Sequencing	96 samples; SARS virus
+NovaSeq_N988	Luis f prausnitzii phage plaque	4 samples; F. prausnitzii phage plaque
+NovaSeq_N992	Mike Diamond Chikungunya and SARS Omicron cell culture isolates	9 samples (& Chikungunya; 2 SARS omicron)
+NovaSeq_N994	RC2 IBD metagenomics test	"3 samples; database_ID: 14876, 14898, 14920"
+Artic_Pool_Dec2024	Dave Wang; Erik Dubberke MiSeq Artic Sequencing	112 samples; SARS virus
+N997	Nepal Dengue Artic spike-in test	"3 samples; Dengue 1, Dengue 2, Dengue 3"
